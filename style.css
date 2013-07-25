@@ -1,48 +1,9 @@
-/* Yo, you lookin at my code? Dats coo.*/
-
-
-body {background-color:black !important;}
-a {color: gray !important;}
-.hero-unit {
-	margin-left:auto;
-	margin-right:auto;
-	width:70%;
-	padding-top:13px !important;
-	padding-bottom:13px !important;
-
-
-
-
-}
-.hero-unit{
-	font-family:bitter;
-
-}
-.hero-unit h2 {
-	font-family:Bitter;
-}
-
-.hero-unit p {
-	font-size:16px;
-}
-	
-#nav {
-	width:100%;
-	
-	text-align: center;
-margin:0;
-margin-top:30px !important;
-
-
-}
-#nav li {
-
-margin:20px;
-
-display:inline;
-}
-#nav li a {
-	color:#333;
-	font-weight:bold;
-}
-
+/*Keep it clean baby*/
+body {background-color:#FFEBA6; color:#7F6710; font-family:"Roboto";}
+h1 {font-size:3em;}
+a {text-decoration: none; color:#303093;}
+#centerBoy{width:50%; margin-left:auto; margin-right:auto; text-align: center;}
+#centerBoy a {margin:5px;}
+.contentBoy {margin-top:30px; line-height: 1.5}
+.contentBoy h3 {margin-top:30px;}
+.contentBoy p {text-align: justify;}
