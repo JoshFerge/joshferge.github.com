@@ -1,7 +1,7 @@
 {
         "busNumber": "1",
         "coordinates": {
-                "latitude": "40.2424",
+                "latitude": "40.9424",
                 "longitude":"-105.5824"
         }
 }
