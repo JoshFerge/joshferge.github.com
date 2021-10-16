@@ -3,7 +3,6 @@ import Link from "next/link"
 import Image from "next/image"
 
 export default function CoverImage({ title, src, slug, height, width }) {
-  2r1hip2
   const image = (
     <Image
       src={src}
@@ -15,7 +14,7 @@ export default function CoverImage({ title, src, slug, height, width }) {
       width={width}
       height={height}
     />
-  )
+  );
   return (
     <div className="sm:mx-0">
       {slug ? (
