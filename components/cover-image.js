@@ -14,7 +14,7 @@ export default function CoverImage({ title, src, slug, height, width }) {
       width={width}
       height={height}
     />
-  );
+  )
   return (
     <div className="sm:mx-0">
       {slug ? (
